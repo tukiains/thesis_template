@@ -1,5 +1,4 @@
 # thesis_template
-A Ph.D. Thesis template
 
 This PhD thesis template can be used for Finnish Meteorological Institute contributions. 
 
