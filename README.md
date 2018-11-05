@@ -10,7 +10,9 @@ Install prequisites:
   
 Set fonts as you like (see thesis_b5.tex)
 
-Compile
+Compile:
  - xelatex thesis_b5.tex
+ - bibtex thesis_b5
+ - xelatex thesis_b5.tex (x2)
   
   
