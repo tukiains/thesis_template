@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Tukiainen et~al.(2008)Tukiainen, Hassinen, Sepp\"al\"a, Auvinen,
+  Kyr\"ol\"a, Tamminen, Haley, Lloyd, and Verronen]{TukiainenEtAl08}
+S.~Tukiainen, S.~Hassinen, A.~Sepp\"al\"a, H.~Auvinen, E.~Kyr\"ol\"a,
+  J.~Tamminen, C.~S. Haley, N.~Lloyd, and P.~T. Verronen.
+\newblock Description and validation of a limb scatter retrieval method for
+  {Odin}/{{OSIRIS}}.
+\newblock \emph{Journal of Geophysical Research}, 113\penalty0 (D4), 2008.
+
+\end{thebibliography}
